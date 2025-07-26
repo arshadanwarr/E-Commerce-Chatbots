@@ -1,0 +1,13 @@
+AI-Powered E-Commerce Q&A Bot!
+
+I just built an interactive chatbot that lets you ask questions directly from any website and get instant, accurate answers—powered by LangChain, RAG, and LLMs.
+
+✅ Features:
+✔ Load any e-commerce site
+✔ Ask natural questions like “What’s the return policy?”
+✔ Context-aware answers using retrieval-augmented generation
+✔ Built with Streamlit + Ollama (TinyLlama for local inference)
+
+Excited to explore how this can transform customer support and boost user experience!
+
+Curious? Let’s connect and discuss AI in e-commerce!
