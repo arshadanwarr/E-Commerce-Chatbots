@@ -1,0 +1,8 @@
+langchain
+groq
+faiss-cpu
+streamlit
+tiktoken
+pandas
+pyttsx3
+SpeechRecognition
