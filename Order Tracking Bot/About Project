@@ -1,0 +1,10 @@
+Just built an intelligent SQL Chatbot with Streamlit + LangChain + Groq!
+Now you can query your database in plain English and get real-time responses — all powered by LLaMA 3 and connected to a live SQL database.
+
+✨ Key Features:
+✅ Natural language to SQL conversion
+✅ Instant database querying
+✅ Clean tabular output
+✅ Lightweight Streamlit UI
+
+Perfect for internal dashboards, support tools, or data-driven insights without writing SQL!
